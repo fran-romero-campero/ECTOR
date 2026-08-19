@@ -1,0 +1,1 @@
+This repository contains the R code used to analyze the data generated in the research paper "Unveiling the Epigenomic Control of Temperature Acclimation in Marine Phytoplankton through Multiomics Integration"
